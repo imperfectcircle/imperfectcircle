@@ -12,21 +12,21 @@
 ## Skills 💪
 <p>
 <!-- JavaScript  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF&style=plastic' />
 <!-- Tailwind  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=FFFFFF&style=plastic' />
 <!-- React  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=FFFFFF&style=plastic' />
 <!-- TypeScript  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=plastic' />
 <!-- Angular  
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=FFFFFF&style=plastic' /> -->
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=FFFFFF&style=plastic' /> -->
 <!-- Laravel  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=FFFFFF&style=plastic' />
 <!-- Node JS  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-Node.JS-5FA04E?logo=node-js&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-Node.JS-5FA04E?logo=node-js&logoColor=FFFFFF&style=plastic' />
 <!-- Express JS  -->
-<img width='80px' height='35px' style="width:80px;height:35px" src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFFFF&style=plastic' />
+<img width='112px' height='35px' style="width:112px;height:35px" src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFFFF&style=plastic' />
 </p>
 
 ---
