@@ -17,7 +17,7 @@
 ## Skills 💪
 <p>
 <!-- JavaScript  -->
-<img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascriptlogoColor=FFFFFF' />
+<img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF' />
 </p>
 
 
@@ -27,8 +27,6 @@
 <h2 align="center">📊 My Stats</h2>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats-2.herokuapp.com/?user=imperfectcircle&theme=default " alt="imperfectcircle" /></p>
- 
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imperfectcircle&theme=default&show_icons=true&locale=en" alt="imperfectcircle" /></p>
@@ -52,3 +50,5 @@
 ---
 
 <p align='center'>Made with 💙 by imperfectcircle</p>
+
+
