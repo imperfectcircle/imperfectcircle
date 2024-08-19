@@ -9,31 +9,33 @@
 - ⚽️ I’m interested in web development, game development, dogs and cookies (the real ones). 
 - 🏂 How to reach me info@fabioangelici.com
 
-## Skills 💪
+## Tech Stack 💪
+[![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,ts,laravel,nodejs,express)]
+<!--
 <p>
-<!-- JavaScript  -->
+<!-- JavaScript  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=FFFFFF&style=plastic' />
-<!-- Tailwind  -->
+<!-- Tailwind  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=FFFFFF&style=plastic' />
-<!-- React  -->
+<!-- React  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=FFFFFF&style=plastic' />
-<!-- TypeScript  -->
+<!-- TypeScript  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=FFFFFF&style=plastic' />
 <!-- Angular  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-Angular-0F0F11?logo=angular&logoColor=FFFFFF&style=plastic' /> -->
-<!-- Laravel  -->
+<!-- Laravel  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=FFFFFF&style=plastic' />
-<!-- Node JS  -->
+<!-- Node JS  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-Node.JS-5FA04E?logo=node-js&logoColor=FFFFFF&style=plastic' />
-<!-- Express JS  -->
+<!-- Express JS  
 <img width='80px' height='25px' style="width:80px;height:25px" src='https://img.shields.io/badge/-Express-000000?logo=express&logoColor=FFFFFF&style=plastic' />
 </p>
-
+-->
 ---
 
 <h2 align="center">📊 My Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=imperfectcircle&theme=default&show_icons=true&locale=en" alt="imperfectcircle" /></p>
+![imperfectcircle's Stats](https://github-readme-stats.vercel.app/api?username=imperfectcircle&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
