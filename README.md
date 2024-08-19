@@ -10,7 +10,7 @@
 - 🏂 How to reach me info@fabioangelici.com
 
 ## Tech Stack 💪
-[![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,ts,laravel,nodejs,express)]
+![My Skills](https://skillicons.dev/icons?i=js,tailwind,react,ts,laravel,nodejs,express)
 <!--
 <p>
 <!-- JavaScript  
