@@ -35,9 +35,9 @@
 
 <h2 align="center">📊 My Stats</h2>
 
-<p align="center">
+<div align="center">
 ![imperfectcircle's Stats](https://github-readme-stats.vercel.app/api?username=imperfectcircle&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-</p>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
